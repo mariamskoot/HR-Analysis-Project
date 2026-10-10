@@ -34,41 +34,16 @@ The report has two pages:
 - Dropdown slicers
 
 ---
-
-## Getting started
-
-**Requirements:** Power BI Desktop (recent version). If prompted, enable
-*File → Options → Preview features → Power BI Project (.pbip) save option* and restart.
-
-1. Unzip the project.
-2. Open `HR_Dashboard.pbip` in Power BI Desktop.
-3. Explore the two pages, or edit visuals from the **Report** view.
-4. To create a template file, use *File → Export → Power BI template (.pbit)*.
-5. To share online, use *Home → Publish* and sign in to Power BI Service.
-
-
-## Animation and interactivity
-
-Power BI does not support native animation for charts. This project creates motion and interactivity with:
-
-- an animated GIF on the intro page,
-- hover and pressed colors on buttons,
-- page navigation between the intro and the dashboard,
-- cross-filtering between visuals and slicers.
-
-For more motion, add **Bookmarks** or enable **Page transitions** in Power BI Desktop.
-
 ## Customization
 
 - **Colors:** navy `#0B1F3A`, card `#12305A`, accent `#00D4B4`, gold `#FFB703`, red `#FB5607`
 - **Page size:** 1280 × 720
-- **Icons:** replace the PNG files in `StaticResources/RegisteredResources/` and keep the same file names
 
 ## Tech stack
 
 - Power BI Desktop
 - DAX
 - Power Query
-- PBIP project format (PBIR + TMDL)
+- PBIP project format
 
 ---
