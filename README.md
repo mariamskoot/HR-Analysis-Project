@@ -3,25 +3,6 @@ An interactive **Power BI** project for analyzing Human Resources performance. I
 
 ---
 
-## About Power BI
-
-**Microsoft Power BI** is a business analytics tool for connecting to data, modeling it, and building interactive reports and dashboards. It is made of three main parts:
-
-| Part | Purpose |
-|------|---------|
-| **Power BI Desktop** | Free Windows app used to build the report, the data model, and the visuals |
-| **Power BI Service** | Online platform for publishing, sharing, and scheduling refresh of reports |
-| **Power BI Mobile** | Apps for viewing reports on phones and tablets |
-
-Key concepts used in this project:
-
-- **Semantic model:** the tables, relationships, and calculations behind the report.
-- **DAX:** the formula language used to create measures such as totals, averages, and percentages.
-- **Power Query:** the tool used to connect to data sources and clean or reshape data.
-- **Visuals and slicers:** charts, cards, and filters that let users explore the report interactively.
-- **Buttons and navigation:** used to move between pages and add interactive effects.
-- 
----
 
 ## Project overview
 
